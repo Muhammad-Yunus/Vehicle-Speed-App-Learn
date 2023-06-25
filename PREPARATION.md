@@ -64,14 +64,14 @@
 - Buka `Anaconda Navigator`,<br>
     <img src="resource/anaconda-navigator-open.png" style="width:600px"></img>
 - Setelah terbuka, tampilannya sebagai berikut,<br>
-    <img src="resource/anaconda-navigator.png" style="width:800px"></img>
+    <img src="resource/anaconda-navigator.png" style="width:900px"></img>
 - masuk ke environment `training`,<br> 
-    <img src="resource/anaconda-navigator-change-env.png" style="width:400px"></img>
+    <img src="resource/anaconda-navigator-change-env.png" style="width:600px"></img>
 - Install `Jupyter Lab`,<br>
-    <img src="resource/anaconda-navigator-install-jupyter-lab.png" style="width:300px"></img>
+    <img src="resource/anaconda-navigator-install-jupyter-lab.png" style="width:250px"></img>
 - Setelah proses install selesai, buka `Jupyter lab`,<br>
-    <img src="resource/anaconda-navigator-open-jupyter-lab.png" style="width:300px"></img>
+    <img src="resource/anaconda-navigator-open-jupyter-lab.png" style="width:250px"></img>
 - Pilih buka di `Google Chrome`,<br>
-    <img src="resource/anaconda-navigator-open-jupyter-lab-chrome.png" style="width:300px"></img>
+    <img src="resource/anaconda-navigator-open-jupyter-lab-chrome.png" style="width:400px"></img>
 - Tampilan `Jupyter Lab` akan tampak seperti berikut,
-    <img src="resource/anaconda-navigator-open-jupyter-lab-chrome-2.png" style="width:800px"></img>
+    <img src="resource/anaconda-navigator-open-jupyter-lab-chrome-2.png" style="width:900px"></img>
