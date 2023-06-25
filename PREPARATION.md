@@ -8,24 +8,21 @@
 ### 2. Setup Conda Environment
 - buka Anaconda Prompt,<br>
 <img src="resource/anaconda-prompt-open.gif" style="width:600px"></img>
-- Setelah itu buat environment baru dengan nama `training` dengan versi `python 3.10`.
+- Setelah itu buat environment baru dengan nama `training` dengan versi `python 3.10`,<br>
+<img src="resource/anaconda-prompt-env-install.gif" style="width:600px"></img>
 ```
 conda create --name training python=3.10
 ```
-<br>
-<img src="resource/anaconda-prompt-env-install.gif" style="width:600px"></img>
-- Activate environment,
+- Activate environment,<br>
+<img src="resource/anaconda-prompt-env-activate.gif" style="width:600px"></img>
 ```
 conda activate training
 ```
-<br>
-<img src="resource/anaconda-prompt-env-activate.gif" style="width:600px"></img>
-- Check versi Python yang digunakan, pada anaconda prompt buka [python REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop),
+- Check versi Python yang digunakan, pada anaconda prompt buka [python REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop),<br>
+<img src="resource/anaconda-prompt-python-repl.gif" style="width:600px"></img>
 ```
 python
 ```
-<br>
-<img src="resource/anaconda-prompt-python-repl.gif" style="width:600px"></img>
 - telihat jika versi python yang digunakan adalah `python 3.10.x`,
 - untuk close dari python klik `CTRL + Z`, lanjutkan dengan klik `ENTER`.
 
