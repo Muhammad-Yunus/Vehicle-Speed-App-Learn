@@ -5,19 +5,15 @@ Learn to Create Application to Detect Vehicle Speed
 - Pertemuan 1 : Basic Python Programming - Part 1
     - Python Operator
     - Python Flow Control (If-Else, While, For Loop)
-    - Python Function
     - Python Data Structure
-- Pertemuan 1 : Basic Python Programming - Part 2
-    - Python OOP (Class & Object)
-    - Python Module
+    - Python OOP (Function, Class & Object)
 - Pertemuan 2 : Python Numpy
     - Matrix Structure
     - Matrix Operation
     - Matrix Property & Method
-- Pertemuan 2 :  OpenCV - Core Image Processing - Part 2
+- Pertemuan 2 :  OpenCV - Core Image Processing
     - Read, Capture & Display Image or Video Stream
     - Draw Text and Shape in Image
-- Pertemuan 2 : OpenCV - Core Image Processing - Part 2	
     - Colorspace Conversion
     - Crop & Resize Image
 - Pertemuan 3 : OpenCV - Intro to Deep Learning	
