@@ -41,6 +41,7 @@
     conda install -c conda-forge pysimplegui
     ```
 <img src="resource/anaconda-prompt-install-lib.gif" style="width:600px"></img>
+
 ### 4. Check Library
 - Masih menggunakan anaconda promt, pastikan sudah activate environment `training`,
 - Jalankan `Python REPL`,
@@ -57,3 +58,4 @@
     print(cv2.__version__)
     print(sg.__version__)
     ```
+<img src="resource/anaconda-prompt-lib-ver.gif" style="width:600px"></img>
