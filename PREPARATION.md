@@ -29,30 +29,31 @@
 ### 3. Install Library
 - Masih menggunakan anaconda promt, pastikan sudah activate environment `training`,
 - Install Numpy Library,
-```
-conda install numpy
-```
+    ```
+    conda install numpy
+    ```
 - Install OpenCV,
-```
-conda install -c conda-forge opencv
-```
+    ```
+    conda install -c conda-forge opencv
+    ```
 - Install PySimpleGUI,
-```
-conda install -c conda-forge pysimplegui
-```
+    ```
+    conda install -c conda-forge pysimplegui
+    ```
+<img src="resource/anaconda-prompt-install-lib.gif" style="width:600px"></img>
 ### 4. Check Library
 - Masih menggunakan anaconda promt, pastikan sudah activate environment `training`,
 - Jalankan `Python REPL`,
-```
-python
-```
+    ```
+    python
+    ```
 - setelah pyhon REPL terbuka, masukan script python berikut untuk check versi library,
-```
-import numpy as np
-import cv2
-import PySimpleGUI as sg    
+    ```
+    import numpy as np
+    import cv2
+    import PySimpleGUI as sg    
 
-print(np.__version__)
-print(cv2.__version__)
-print(sg.__version__)
-```
+    print(np.__version__)
+    print(cv2.__version__)
+    print(sg.__version__)
+    ```
