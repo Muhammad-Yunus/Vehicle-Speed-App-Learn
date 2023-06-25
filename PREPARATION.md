@@ -59,3 +59,15 @@
     print(sg.__version__)
     ```
 <img src="resource/anaconda-prompt-lib-ver.gif" style="width:600px"></img>
+
+### 5. Use Jupyter Lab
+- Buka `Anaconda Navigator`,<br>
+    <img src="resource/anaconda-navigator-open.png" style="width:600px"></img>
+- Setelah terbuka, tampilannya sebagai berikut,<br>
+    <img src="resource/anaconda-navigator.png" style="width:800px"></img>
+- masuk ke environment `training`,<br> 
+    <img src="resource/anaconda-navigator-change-env.png" style="width:400px"></img>
+- Install `Jupyter Lab`,<br>
+    <img src="resource/anaconda-navigator-install-jupyter-lab.png" style="width:300px"></img>
+- Setelah proses install selesai, buka `Jupyter lab`,
+    <img src="resource/anaconda-navigator-open-jupyter-lab.png" style="width:300px"></img>
