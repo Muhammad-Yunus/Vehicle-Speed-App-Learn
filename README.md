@@ -8,14 +8,11 @@ Learn to Create Application to Detect Vehicle Speed
     - [Python Data Structure](https://github.com/Muhammad-Yunus/Vehicle-Speed-App-Learn/blob/main/Pertemuan_1/3.%20Basic%20Python%20-%20Data%20Structures.ipynb)
     - [Python OOP (Function, Class & Object)](https://github.com/Muhammad-Yunus/Vehicle-Speed-App-Learn/blob/main/Pertemuan_1/4.%20Basic%20Python%20-%20OOP.ipynb)
 - Pertemuan 2 : Python Numpy
-    - Matrix Structure
-    - Matrix Operation
-    - Matrix Property & Method
+    - [Numpy Matrix Structure, Property, Method & Operation](https://github.com/Muhammad-Yunus/Vehicle-Speed-App-Learn/blob/main/Pertemuan_2/1.%20Python%20Numpy%20Fundamentals.ipynb)
 - Pertemuan 2 :  OpenCV - Core Image Processing
-    - Read, Capture & Display Image or Video Stream
+    - [Read, Capture & Display Image or Video Stream](https://github.com/Muhammad-Yunus/Vehicle-Speed-App-Learn/blob/main/Pertemuan_2/2.%20OpenCV%20-%20Read%2C%20Display%2C%20Write.ipynb)
     - Draw Text and Shape in Image
-    - Colorspace Conversion
-    - Crop & Resize Image
+    - [Crop, Resize & Colorspace Conversion](https://github.com/Muhammad-Yunus/Vehicle-Speed-App-Learn/blob/main/Pertemuan_2/3.%20OpenCV%20-%20Crop%2C%20Resize%2C%20Convert.ipynb)
 - Pertemuan 3 : OpenCV - Intro to Deep Learning	
     - Deep Learning vs Machine Lerning
     - Training Model vs Inferencing Model
