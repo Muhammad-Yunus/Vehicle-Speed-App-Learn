@@ -3,10 +3,10 @@ Learn to Create Application to Detect Vehicle Speed
 
 - [Preparation](https://github.com/Muhammad-Yunus/Vehicle-Speed-App-Learn/blob/main/PREPARATION.md) (Install Software, Library and Setup Environment)
 - Pertemuan 1 : Basic Python Programming - Part 1
-    - Python Operator
-    - Python Flow Control (If-Else, While, For Loop)
-    - Python Data Structure
-    - Python OOP (Function, Class & Object)
+    - [Python Operator](https://github.com/Muhammad-Yunus/Vehicle-Speed-App-Learn/blob/main/Pertemuan_1/1.%20Basic%20Python%20-%20Operator.ipynb)
+    - [Python Flow Control (If-Else, While, For Loop)](https://github.com/Muhammad-Yunus/Vehicle-Speed-App-Learn/blob/main/Pertemuan_1/2.%20Basic%20Python%20-%20Flow%20Control.ipynb)
+    - [Python Data Structure](https://github.com/Muhammad-Yunus/Vehicle-Speed-App-Learn/blob/main/Pertemuan_1/3.%20Basic%20Python%20-%20Data%20Structures.ipynb)
+    - [Python OOP (Function, Class & Object)](https://github.com/Muhammad-Yunus/Vehicle-Speed-App-Learn/blob/main/Pertemuan_1/4.%20Basic%20Python%20-%20OOP.ipynb)
 - Pertemuan 2 : Python Numpy
     - Matrix Structure
     - Matrix Operation
