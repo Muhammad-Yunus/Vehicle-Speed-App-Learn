@@ -41,6 +41,12 @@
     conda install -c conda-forge pysimplegui
     ```
 <img src="resource/anaconda-prompt-install-lib.gif" style="width:600px"></img>
+- Catatan tambahan :
+    - Jika OpenCV tidak bisa membaca MJPEG Stream atau RTSP URL, kemungkinan besar vesi OpenCV yang digunakan tidak mensupport `FFMPEG` (library yang digunakan OpenCV untuk membaca MJPEG Stream atau RTSP URL).
+    - Untuk itu install OpenCV yang mensupport `FFMPEG`,
+        ```
+        conda install -c conda-forge opencv=4.7.0 ffmpeg
+        ```
 
 ### 4. Check Library
 - Masih menggunakan anaconda promt, pastikan sudah activate environment `training`,
